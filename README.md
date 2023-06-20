@@ -18,7 +18,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyee&layout=compact&theme=react)](https://github.com/juhyee/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyee&theme=react&show_icons=true&hide=contribs&line_height=24)](https://github.com/juhyee/github-readme-stats)
 
                       
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
