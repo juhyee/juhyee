@@ -6,7 +6,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&color=323330)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=323330)
-![React](https://img.shields.io/badge/react-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&color=323330)
+![React](https://img.shields.io/badge/react-%230A0FFF.svg?style=for-the-badge&logo=react&logoColor=white&color=323330)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&color=323330)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=323330)
